@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-biz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=pt-br&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=gabriel-biz&locale=pt-br&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-biz&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=onedark&hide_border=true" height="160" alt="languages graph"  />
 </div>
 
@@ -45,11 +44,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gabriel-biz/gabriel-biz/output/snake.svg" alt="Snake animation" />
 
 ###
